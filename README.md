@@ -1,2 +1,4 @@
 # dual-knob-slider
-dual knob slider widget for android
+Dual knob slider widget for android
+
+NOTE: this is an old android widget I built a couple of years ago
